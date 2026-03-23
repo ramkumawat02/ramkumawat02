@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm CHENA RAM </h1>
+<h1 align="center">Hi, I'm CHENA RAM 👋 </h1>
 <h3 align="center"> Data Scientist | Data Engineer | Data Analyst | ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramkumawat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
+<p>Passionate about transforming complex datasets into actionable business insights and building predictive models to solve real-world problems.</p>
 ---
 
 ### 🚀 About Me
