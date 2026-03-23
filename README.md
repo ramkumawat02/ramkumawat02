@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ram Kumawat</h1>
-<h3 align="center">MSc Data Science Student | Data Analyst | ML Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm CHENA RAM </h1>
+<h3 align="center"> Data Scientist | Data Engineer | Data Analyst | ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramkumawat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
