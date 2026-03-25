@@ -94,7 +94,7 @@
       <h3 align="center">🌐 Portfolio Website</h3>
       <p align="center">
         <a href="https://ramkumawat-portfolio.vercel.app/" target="_blank">
-         <img src=/Users/ramkumawat/Desktop/Projects /portfolio/Ram/dist/project-images/icu-shap-summary.png
+         <img src="https://github.com/ramkumawat02/-ramkumawat02.github.io/blob/main/project-images/portfolio-screenshot.png"
                style="width:400px; height:225px; object-fit:cover; border-radius:15px;"
                alt="MIMIC-IV XAI Dashboard"/>
         </a>
