@@ -13,7 +13,7 @@
 
 ### 🚀 Quick Links
 - 👨‍💻 GitHub: [ramkumawat02](https://github.com/ramkumawat02)
-- 🌐 Portfolio: [ramkumawat-portfolio.vercel.app](https://ramkumawat-portfolio.vercel.app/)
+- 🌐 Portfolio: https://ramkumawat02.github.io/-ramkumawat02.github.io/
 - 📫 Email: **crkumawat29@gmail.com**
 - 💼 LinkedIn: [chena-ram-data](https://www.linkedin.com/in/chena-ram-data/)
 - 🧠 HackerRank: [RamDataScience](https://www.hackerrank.com/profile/RamDataScience)
