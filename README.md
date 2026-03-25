@@ -94,7 +94,9 @@
       <h3 align="center">🌐 Portfolio Website</h3>
       <p align="center">
         <a href="https://ramkumawat-portfolio.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Now-0e75b6?style=for-the-badge" alt="Portfolio Website"/>
+         <img src="https://raw.githubusercontent.com/ramkumawat02/MIMIC-IV-Mortality-Risk-XAI-Dashboard/main/results/figures/roc_curve.png"
+               style="width:400px; height:225px; object-fit:cover; border-radius:15px;"
+               alt="MIMIC-IV XAI Dashboard"/>
         </a>
       </p>
       <p>
