@@ -77,7 +77,7 @@
       <h3 align="center">🏥 MIMIC-IV Mortality Risk XAI Dashboard</h3>
       <p align="center">
         <a href="https://github.com/ramkumawat02/MIMIC-IV-Mortality-Risk-XAI-Dashboard" target="_blank">
-          <img src="https://raw.githubusercontent.com/ramkumawat02/MIMIC-IV-Mortality-Risk-XAI-Dashboard/main/results/figures/roc_curve.png"
+          <img src="https://github.com/ramkumawat02/MIMIC-IV-Mortality-Risk-XAI-Dashboard/blob/main/results/figures/icu-shap-summary.png"
                style="width:400px; height:225px; object-fit:cover; border-radius:15px;"
                alt="MIMIC-IV XAI Dashboard"/>
         </a>
