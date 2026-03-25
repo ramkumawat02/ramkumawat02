@@ -95,8 +95,8 @@
       <p align="center">
         <a href="https://ramkumawat-portfolio.vercel.app/" target="_blank">
          <img src="https://github.com/ramkumawat02/-ramkumawat02.github.io/blob/main/project-images/portfolio-screenshot.png"
-               style="width:500px; height:325px; object-fit:cover; border-radius:15px;"
-               alt="MIMIC-IV XAI Dashboard"/>
+               style="width:400px; height:225px; object-fit:cover; border-radius:1px;"
+               alt="Portfolio"/>
         </a>
       </p>
       <p>
