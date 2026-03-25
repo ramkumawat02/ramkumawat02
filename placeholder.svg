@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="CR monogram">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#171717" />
+      <stop offset="100%" stop-color="#3a3a3a" />
+    </linearGradient>
+    <linearGradient id="gold" x1="15%" y1="15%" x2="85%" y2="85%">
+      <stop offset="0%" stop-color="#f4d8a4" />
+      <stop offset="35%" stop-color="#c9965d" />
+      <stop offset="70%" stop-color="#8b5e34" />
+      <stop offset="100%" stop-color="#f0c98d" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000000" flood-opacity="0.4" />
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="url(#bg)" />
+  <g fill="none" stroke="url(#gold)" stroke-linecap="round" stroke-linejoin="round" filter="url(#shadow)">
+    <path d="M288 108c-36-25-76-38-120-38-94 0-166 77-166 186s72 186 166 186c44 0 84-13 120-38" stroke-width="44"/>
+    <path d="M296 106h76c78 0 134 52 134 126 0 62-42 108-102 120l106 118" stroke-width="44"/>
+    <path d="M296 106v168" stroke-width="44"/>
+    <path d="M296 272h96" stroke-width="44"/>
+  </g>
+</svg>
