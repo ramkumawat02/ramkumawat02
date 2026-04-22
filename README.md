@@ -47,7 +47,7 @@
 - **Visualization:** Tableau, Matplotlib, Seaborn, Power BI  
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Feature Engineering, NLP  
 - **Tools & Platforms:** Azure, Databricks, Git/GitHub, Jupyter Notebook  
-
+---
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -61,7 +61,6 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks"/>
 </p>
-
 ---
 
 
