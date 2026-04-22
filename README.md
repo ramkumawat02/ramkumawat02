@@ -48,7 +48,7 @@
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Feature Engineering, NLP  
 - **Tools & Platforms:** Azure, Databricks, Git/GitHub, Jupyter Notebook  
 ---
-<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; gap: 35px; overflow-x: auto;">
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; gap: 100px; overflow-x: auto;">
 
 <a href="https://www.mathworks.com/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="42"/>
@@ -63,7 +63,6 @@
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
-  <!-- FIXED: use colored version instead of dark one -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" 
        height="42"
        style="filter: brightness(1.2);"/>
