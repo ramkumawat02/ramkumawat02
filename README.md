@@ -48,7 +48,7 @@
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Feature Engineering, NLP  
 - **Tools & Platforms:** Azure, Databricks, Git/GitHub, Jupyter Notebook  
 ---
-<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; gap: 18px; overflow-x: auto;">
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; gap: 35px; overflow-x: auto;">
 
 <a href="https://www.mathworks.com/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="42"/>
@@ -90,7 +90,7 @@
 </a>
 
 </div>
----
+
 
 ## 📊 GitHub Analytics
 <table align="center">
