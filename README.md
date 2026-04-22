@@ -88,7 +88,7 @@
 </a>
 
 </div>
-
+---
 
 ## 📊 GitHub Analytics
 <table align="center">
