@@ -48,50 +48,49 @@
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Feature Engineering, NLP  
 - **Tools & Platforms:** Azure, Databricks, Git/GitHub, Jupyter Notebook  
 ---
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: nowrap; gap: 18px; overflow-x: auto;">
 
 <a href="https://www.mathworks.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="42"/>
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="42"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="42"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank">
-  <!-- FIXED: added white background -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/icons/pandas/pandas-original.svg" 
-       width="45" 
-       style="background-color:white; padding:5px; border-radius:6px;"/>
+  <!-- FIXED: use colored version instead of dark one -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" 
+       height="42"
+       style="filter: brightness(1.2);"/>
 </a>
 
 <a href="https://www.postgresql.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="42"/>
 </a>
 
 <a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42"/>
 </a>
 
 <a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="42"/>
 </a>
 
 <a href="https://seaborn.pydata.org/" target="_blank">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="42"/>
 </a>
 
 <a href="https://www.tensorflow.org" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="42"/>
 </a>
 
 </div>
 ---
-
 
 ## 📊 GitHub Analytics
 <table align="center">
