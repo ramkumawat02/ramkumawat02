@@ -118,8 +118,8 @@
     <td width="50%" valign="top">
       <h3 align="center">🏥 MIMIC-IV Mortality Risk XAI Dashboard</h3>
       <p align="center">
-        <a href="https://github.com/ramkumawat02/MIMIC-IV-Mortality-Risk-XAI-Dashboard" target="_blank">
-          <img src="https://github.com/ramkumawat02/MIMIC-IV-Mortality-Risk-XAI-Dashboard/blob/main/results/figures/icu-shap-summary.png"
+        <a href="https://github.com/ramkumawat02/Data-Science-Projects/tree/main/ICU-Mortality-Prediction" target="_blank">
+          <img src="https://github.com/ramkumawat02/Data-Science-Projects/blob/main/ICU-Mortality-Prediction/results/figures/icu-shap-summary.png"
                style="width:400px; height:225px; object-fit:cover; border-radius:15px;"
                alt="MIMIC-IV XAI Dashboard"/>
         </a>
@@ -129,7 +129,7 @@
         <br/><br/>
         <b>🛠️ Tech:</b> Python, Scikit-learn, SHAP, Streamlit, Pandas
         <br/>
-        <a href="https://github.com/ramkumawat02/MIMIC-IV-Mortality-Risk-XAI-Dashboard" target="_blank"><b>📂 View Repository</b></a>
+        <a href="https://github.com/ramkumawat02/Data-Science-Projects/tree/main/ICU-Mortality-Prediction"target="_blank"><b>📂 View Repository</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
