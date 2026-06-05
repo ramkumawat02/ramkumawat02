@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ramkumawat02&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+      
     </td>
   </tr>
 </table>
