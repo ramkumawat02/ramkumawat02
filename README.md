@@ -97,14 +97,14 @@
   <tr>
     <td align="center">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramkumawat02&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
-   </td>
+    </td>
     <td align="center">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=ramkumawat02&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=ramkumawat02&theme=vision-friendly-dark" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramkumawat02&theme=vision-friendly-dark" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
