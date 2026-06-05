@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm CHENA RAM 👋</h1>
-<h3 align="center">Aspiring Data Scientist | Data Engineer | Data Analyst | AI/ML Enthusiast</h3>
+<h3 align="center">Data Engineer | MSc Data Science | Python, SQL, ETL | Azure & Databricks | Data Scientist | Data Analyst | AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramkumawat02&label=Profile%20views&color=0e75b6&style=flat-square" alt="ramkumawat02" />
 </p>
 
 <p align="center">
-  <strong>Passionate about transforming complex datasets into actionable insights and building predictive models for real-world impact.</strong>
+  <strong>From designing scalable data pipelines to building intelligent ML models — I craft end-to-end data solutions that transform complex, multi-source datasets into clear, reliable insights that inform smarter decisions.</strong>
 </p>
 
 ---
